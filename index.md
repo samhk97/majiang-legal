@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 麻將俱樂部 — 法律文件
+title: 麻雀俱樂部 — 法律文件
 ---
 
-# 麻將俱樂部 · 法律文件
+# 麻雀俱樂部 · 法律文件
 
-App: 麻將俱樂部 (Mahjong Club)
+App: 麻雀俱樂部 (Mahjong Club)
 聯絡: **lingw0182@gmail.com**
 
 ## 文件
